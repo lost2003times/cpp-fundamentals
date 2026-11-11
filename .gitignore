@@ -1,0 +1,9 @@
+# Build output
+*.exe
+*.out
+*.o
+*.obj
+a.out
+.vs/
+Debug/
+Release/

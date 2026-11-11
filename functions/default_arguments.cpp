@@ -1,4 +1,5 @@
 #include<iostream>
+#include<string>
 using namespace std;
 
 void myself(string name, string city,string bff, int age = 0) {
@@ -9,7 +10,7 @@ void myself(string name, string city,string bff, int age = 0) {
 		cout << " I am " << age << " years old." << endl;
 
 }
-void main() {
+int main() {
 	string name, city, bff;
 	int age;
 	cout << " Name : ";
